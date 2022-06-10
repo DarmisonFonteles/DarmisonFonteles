@@ -1,0 +1,18 @@
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\bin\Debug\net6.0-windows\Meu primeiro projeto em C.exe
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\bin\Debug\net6.0-windows\Meu primeiro projeto em C.deps.json
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\bin\Debug\net6.0-windows\Meu primeiro projeto em C.runtimeconfig.json
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\bin\Debug\net6.0-windows\Meu primeiro projeto em C.dll
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\bin\Debug\net6.0-windows\Meu primeiro projeto em C.pdb
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.csproj.AssemblyReference.cache
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.csproj.GenerateResource.cache
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.AssemblyInfoInputs.cache
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.AssemblyInfo.cs
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.csproj.CoreCompileInputs.cache
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.dll
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\refint\Meu primeiro projeto em C.dll
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.pdb
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu primeiro projeto em C.genruntimeconfig.cache
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\ref\Meu primeiro projeto em C.dll
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu_primeiro_projeto_em_C.frmPrincipal.resources
+C:\Users\Sr. Fonteles\Desktop\Projetos\C#\Meu primeiro projeto em C\Meu primeiro projeto em C\obj\Debug\net6.0-windows\Meu_primeiro_projeto_em_C.Frmpropriedadescheckbox.resources
