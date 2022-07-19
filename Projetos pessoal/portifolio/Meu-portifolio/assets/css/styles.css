@@ -20,8 +20,8 @@ body{
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    background-color: #070707;
-
+    background: rgb(32,32,32);
+    background: radial-gradient(circle, rgba(32,32,32,1) 10%, rgba(0,0,0,1) 92%);
 }
 
 .menu-navegacao img{
@@ -41,7 +41,8 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #070707;
+    background: rgb(32,32,32);
+    background: radial-gradient(circle, rgba(32,32,32,1) 10%, rgba(0,0,0,1) 92%);
 }
 .apresentacao-um div{
     padding: 10px;
@@ -77,12 +78,310 @@ body{
     margin: 0px 5% 0px 5%;
 }
 
-.midia-contato img{
-    width: 40px;
-}
-
 .pro-loc div{
     display: flex;
     flex-direction: column;
     padding: 15%;
+}
+
+.pro-loc-dois p a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.minha-midia{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    
+}
+
+.minha-midia img{
+    width: 40px;
+    border-radius: 40%;
+}
+
+.sobre-mim{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10%;
+    width: 100%;
+    
+}
+
+.sobre-h1 h1{
+    font-size: 55px;
+    color: #585858;
+}
+
+.sobre-p p{
+    font-size: 25px;
+    margin: 5px;
+}
+
+.formacao-princ{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: rgb(32,32,32);
+    background: radial-gradient(circle, rgba(32,32,32,1) 10%, rgba(0,0,0,1) 92%);
+    flex-wrap: nowrap;
+    color: #fff;
+    width: 100%;
+    padding: 7%;
+}
+
+.formacao-h1 h1{
+    font-size: 45px;
+    color: #C9C6C6;
+    position: static;
+    margin-bottom: 15px;
+}
+
+.formacao-sec{
+    padding: 1%;
+    background-color: #070707;
+    color: #070707;
+}
+.formacao-apresenta{
+    font-size: 20px;
+    margin: 20px;
+    color: #fff;
+}
+
+.formacao-facul{
+    background-color: #000;
+    color: #fff;
+    width: 320px;
+    padding: 15px;
+}
+
+.formacao-facul-um p{
+    font-size: 22px;
+    margin: 15px;
+    
+}
+
+.formacao-facul-um::before{
+    content: "";
+    width: 4px;
+    height: 50px;
+    display: block;
+    position: absolute;
+    background-color: #fff;
+    margin: 0 auto ;
+}
+
+.formacao-facul-dois h2{
+    font-size: 17px;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.formacao-facul-tres p{
+    font-size: 18px;
+    margin: 15px;
+}
+
+.cursos-interativos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo-curso h3{
+    font-size: 25px;
+    color: #c9c9c9;
+    margin: 16px;
+    position: static;
+}
+
+.curso-formacao{
+    display: flex;
+    justify-content: flex-start;
+    width: auto;
+    padding: 15px;
+    margin: 0;
+    color: #fff;
+    text-decoration: none;
+}
+
+.classe-corpo-alfa{
+    align-items: center;
+    margin: 5px 80px 5px 5px;
+}
+
+.classe-corpo-beta{
+    align-items: center;
+    margin: 5px 200px 5px 5px;
+}
+
+.cor-alfa{
+    color: #fff;
+}
+
+.cor-beta{
+    color: #585858;
+}
+
+.cor-beta a{
+    color: #585858;
+}
+
+.experiencia-cargos{
+    background-color: #fff;
+    padding: 7%;
+}
+
+.experiencia-um{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.experiencia-prep{
+    display: flex;
+    justify-content: space-around;
+    background-color: #c9c9c9;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+}
+
+.experiencia-caixa-um{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 15px;
+    height: 200px;
+}
+
+.experiencia-caixa-um h1{
+    font-size: 30px;
+    color: #070707;
+}
+
+.experiencia-caixa-dois{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    width: 40%;
+}
+
+.experiencia-caixa-dois h2{
+    font-size: 30px;
+    color: #070707;
+    margin-bottom: 30px;
+}
+
+.experiencia-caixa-dois p{
+    font-size: 20px;
+}
+
+.habilidades{
+    justify-content: center;
+    padding: 15px;
+    width: 40%;
+}
+
+.habilidades h2{
+    font-size: 30px;
+    color: #070707;
+    margin-bottom: 30px;
+}
+
+.habiliades-auto-pric{
+    justify-content: flex-start;
+    align-content: stretch;
+    margin: 5px;
+    padding: 5px;
+}
+
+.habilidades-auto{
+    font-size: 25px;
+    background-color: #959595;
+    color: #000;
+}
+
+.projetos-feitos{
+    background-color: #000;
+    color: #fff;
+    align-items: center;
+    padding: 7%;
+
+}
+
+.projetos-feitos h1{
+    font-size: 45px;
+    color: #fff;
+    margin-bottom: 45px;
+}
+
+.projeto-feitos-dois{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.projeto-feitos-dois img{
+    width: 350px;
+    height: 200px;
+}
+
+.projeto-feitos-dois a{
+    font-size: 25px;
+}
+
+.projeto-miniatu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rodape{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 5%;
+
+}
+
+.rodape-um{
+    background-color: #c9c9c9;
+    height: 400px;
+    text-align: center;
+}
+
+.rodape-um h2{
+    font-size: 40px;
+    margin: 10px;
+    
+}
+
+.rodape-texto a{
+    font-size: 18px;
+  
+}
+
+.rodape-dois{
+    display: flex;
+    margin: 10px;
+    padding: 15px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rodape-dois div{
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+.rodape-dois p{
+    margin: 10px;
+    padding: 15px;
+    font-size: 18px;
 }
