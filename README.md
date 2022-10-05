@@ -1,4 +1,4 @@
-## Oiii eu sou a Darmison Fonteles!
+## Oiii eu sou o Darmison Fonteles!
 <div align="center">
   <a href="https://github.com/DarmisonFonteles">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=DarmisonFonteles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,9 +10,11 @@
     <img align="center" alt="Fonts-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Fonts-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Fonts-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Fonts-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="thiago-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
     <img align="center" alt="Fonts-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Fonts-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+    <img align="center" alt="thiago-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="thiago-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <br>  
   </div>
   
