@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script type="text/javascript">
+       $(document).ready(function(){
+            
+            $('h2').css('margin','0');
+            $('p').css({margin:'0',color:'red'});
+            $('.div1').css({'margin-bottom': '20px',background:'#ccc'});
+
+            //Filhas
+            $('.div1 span').hide().delay('1000').fadeIn(1000).css({color:'green','font-size':'15px'});
+            $('.div1 h2').hide().css({'font-size':'50px', color:'red'}).fadeIn(800);
+
+            //Filhas direta do elemento
+            $('.div1 > span').css({color:'blue', 'font-size':'30px'})
+
+            //Primeiro elemento apos o selecionado
+            $('.p1 + p').css({'font-size': '45px', color:'yellow'})
+
+            // Atacando todos elementos apos o selecionando
+            $('.p1 ~ p').css({color: '#000'});
+       });
+    </script>
+</head>
+<body>
+    
+    <div class="div1">
+        <h2>h2 filho da div1</h2>
+        <p>P filho da div 1 <span>SPAN filho de P</span></p>
+        <span>SPAN filho da div 1</span>
+    </div>
+    <h2>h2 fora da div1</h2>
+    <p class="p1">P fora da div 1</p>
+    <p>P fora da div 1</p>
+    <p>P fora da div 1</p>
+</body>
+</html>
