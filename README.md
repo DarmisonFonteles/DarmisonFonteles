@@ -1,8 +1,23 @@
-## Darmison Fonteles!
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Darmison Fonteles</h1>
+ <a href="https://www.instagram.com/Darmisonfonteles7/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/DarmisonTeles7">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/darmison-fonteles/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+<br />
+<br />
+
 <div align="center">
   <a href="https://github.com/DarmisonFonteles">
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=DarmisonFonteles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DarmisonFonteles&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarmisonFonteles&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarmisonFonteles&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
 <br/>
